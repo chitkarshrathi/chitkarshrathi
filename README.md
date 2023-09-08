@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @chitkarshrathi
-- 👀 I’m interested in web development, back-end.
-- 🌱 I’m currently learning javascript, python.
-- 📫 You can message me via twitter.com/rathichitkarsh
+nothing interesting lmao
 
 <!---
 chitkarshrathi/chitkarshrathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
